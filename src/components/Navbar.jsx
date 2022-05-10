@@ -1,6 +1,8 @@
 import React, {useState} from 'react'
 import Logo from '../assets/logo.png'
-import {FaBars, FaTimes} from 'react-icons/fa' 
+import {FaBars, FaTimes, FaGithub,FaLinkedin} from 'react-icons/fa' 
+import {HiOutlineMail} from 'react-icons/hi'
+import {BsFillPersonLinesFill} from 'react-icons/bs'
 
 
 
@@ -36,8 +38,13 @@ function Navbar() {
             <li className='py-6 text-4xl'>Contact</li>
           </ul>
         {/* social icons */}
-        <div className='hidden'>
-
+        <div className='flex flex-col top-[35%] fixed left-0 '>
+          <ul>
+            <li>Rohit</li>
+            <li>Vijay</li>
+            <li></li>
+            <li></li>
+          </ul>
         </div>
     </div>
     
