@@ -112,6 +112,13 @@ const dataportfolio = [
     link: "https://suryanftcollection.netlify.app/",
     code: "https://github.com/suryaadev/NFT_Collection.git",
   },
+  {
+    img: "login.png",
+    desctiption:
+      "Recipe app using MERN user can add recipes view save and delete recipes full authentication with token",
+    link: "https://suraadev.netlify.app/",
+    code: "https://github.com/suryaadev/Recipe_App.git",
+  }
 ];
 
 const contactConfig = {
